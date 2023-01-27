@@ -22,5 +22,5 @@ This repository is dedicated to providing a collection of daily problem-solving 
 
 We hope you find this repository useful and enjoy the daily problem-solving challenges. Happy problem solving!
 
-# PS: Do not forget to star the repository if you find it helpful.
+## PS: Do not forget to star the repository if you find it helpful.
 
